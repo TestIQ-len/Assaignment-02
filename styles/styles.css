@@ -383,6 +383,9 @@ line-height: 24px;
 letter-spacing: 0.3px;
 text-align: center;
 }
+.para-5{
+  padding: 20px 6px;
+}
 .footer{
   margin-top: 88px;
   
