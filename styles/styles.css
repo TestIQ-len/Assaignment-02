@@ -342,7 +342,11 @@ border-radius: 18px;
 }
 .section-7{
   margin-top: 88px;
-  background-image: url(images);
+  background-image: linear-gradient(0deg, rgb(16, 16, 16) -19.5%,
+  rgba(16, 16, 16, 0) 100%),
+  url("../images/exercise2.png");
+  background-size: cover;
+  background-position: center;
 }
 .div-5{
   width: 671px;
@@ -385,6 +389,27 @@ text-align: center;
 }
 .para-5{
   padding: 20px 6px;
+}
+.icon-part{
+  margin-left: 600px;
+  margin-top: 50px;
+}
+.icon-1{
+  width: 100px;
+  height: 100px;
+}
+.icon-part2{
+  margin-left: 700px;
+  margin-top: 50px;
+}
+.head-7{
+  width: 100px;
+  height: 20px;
+  color: white;
+}
+.para-7{
+  font-size: 15px;
+  color: white;
 }
 .footer{
   margin-top: 88px;
